@@ -38,3 +38,6 @@ Running locally you need 3 terminals open: one for client, one for server, and a
 
 Go to `http://localhost:8080/` to check the live application.
 
+![image](https://user-images.githubusercontent.com/39501945/75633004-65d29180-5c27-11ea-99e1-3be1ed813708.png)
+
+

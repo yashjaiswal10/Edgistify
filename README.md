@@ -37,6 +37,7 @@ Running locally you need 3 terminals open: one for client, one for server, and a
 8. In `client` directory, run `npm run start`;
 
 Go to `http://localhost:8080/` to check the live application.
+![image](https://user-images.githubusercontent.com/39501945/75633042-c19d1a80-5c27-11ea-8b78-e4157490c761.png)
 
 ![image](https://user-images.githubusercontent.com/39501945/75633004-65d29180-5c27-11ea-99e1-3be1ed813708.png)
 
